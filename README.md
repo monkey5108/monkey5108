@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monkey5108
 - 👀 I’m interested in games and stuff
-- 🌱 I’m currently learning html, css, basic stuff
+- 🌱 I’m currently learning html, css, react js, etc
 - 💞️ I’m looking to collaborate on nothin
 - 📫 How to reach me by emailing asa.winchell@gmail.com or messaging 435-979-1082
 
